@@ -5,7 +5,7 @@ variable "aws_region" {
 
 variable "git_repo_name" {
   type = string
-  default = "skyfam/terraform-codepipeline-aws"
+  default = "skyfam/terraform-codepipeline-aws-infra"
 }
 
 variable "s3_bucket_name" {
